@@ -12,6 +12,6 @@ package com.mycompany.laberinto;
 public class Laberinto {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola Mundo!");
     }
 }
