@@ -1,2 +1,2 @@
-# Paradigmas-de-programaci-n
+# Paradigmas-de-programacion
 The Odyssey: A Fool's Purgatory
