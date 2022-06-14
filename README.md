@@ -3,9 +3,9 @@ The Odyssey: A Fool's Purgatory
 
 
 # Integrantes - Grupo 16
-Andrés Steven Tamayo García
-Diego Alejandro Rodríguez Torres
-Alexander Diaz Rodríguez
+Andrés Steven Tamayo García - 
+Diego Alejandro Rodríguez Torres -
+Alexander Diaz Rodríguez -
 Edwin Alexander Hernández Restrepo
 
 # Descripción: 
