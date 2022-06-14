@@ -40,6 +40,7 @@ public class Juego extends JPanel {
     }
 
     public static void main(String[] args) {
+        JOptionPane.showMessageDialog(null, "¿Estas Listo? Para Empezar la Aventura");
         JFrame miventana = new JFrame("The Odyssey");
         Juego game = new Juego();
         miventana.add(game);
